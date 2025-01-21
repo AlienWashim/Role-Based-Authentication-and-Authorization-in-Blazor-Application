@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FruitShopAuth.Client.props" />
+</Project>

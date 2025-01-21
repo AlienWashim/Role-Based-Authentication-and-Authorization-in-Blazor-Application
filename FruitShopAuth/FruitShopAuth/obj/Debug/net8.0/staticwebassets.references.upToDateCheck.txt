@@ -1,0 +1,6 @@
+D:\Washim\Visual Studio Projects\FruitShopAuth\FruitShopAuth\FruitShopAuth.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Washim\Visual Studio Projects\FruitShopAuth\FruitShopAuth\FruitShopAuth.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Washim\Visual Studio Projects\FruitShopAuth\FruitShopAuth\FruitShopAuth.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Washim\Visual Studio Projects\FruitShopAuth\FruitShopAuth\FruitShopAuth.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Washim\Visual Studio Projects\FruitShopAuth\FruitShopAuth\FruitShopAuth.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Washim\Visual Studio Projects\FruitShopAuth\FruitShopAuth\FruitShopAuth.Client\obj\Debug\net8.0\staticwebassets.build.json

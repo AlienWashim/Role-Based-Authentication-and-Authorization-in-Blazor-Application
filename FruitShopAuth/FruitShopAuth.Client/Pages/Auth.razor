@@ -1,0 +1,17 @@
+﻿@page "/auth"
+
+@using Microsoft.AspNetCore.Authorization
+
+@attribute [Authorize]
+@rendermode InteractiveAuto
+
+<PageTitle>Auth</PageTitle>
+
+<AuthorizeView Roles="Admin2">
+    <NotAuthorized>
+        <h1>You are not admin</h1>
+    </NotAuthorized>
+    <Authorized >
+        Hello @context.User.Identity?.Name!
+    </Authorized>
+</AuthorizeView>
